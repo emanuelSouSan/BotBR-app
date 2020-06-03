@@ -1,2 +1,2 @@
 # BotBR-app
-blablabla
+Um novo projeto Flutter de bate-papo com bot.
